@@ -77,7 +77,7 @@ Professional players often use highly customized settings developed through long
 
 If you are interested in a particular player's setup, check whether the settings are current before using them. Player settings can change after device upgrades, game updates, or changes in personal preference.
 
-For example, Sportsangam maintains detailed gaming guides covering BGMI players, sensitivity settings and related esports topics.
+For a detailed look at a professional BGMI player's sensitivity setup, see the [Jonathan Gaming Sensitivity Guide](https://sportsangam.com/jonathan-gaming-sensitivity-2026/).
 
 ## About Sportsangam
 
